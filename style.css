@@ -1,0 +1,57 @@
+.button{
+    width:150px;
+    height:150px;
+    border-radius: 100%;
+    margin-left: 40px;
+    color: white;
+    background-color: white;
+
+}
+img {
+    width:140px;
+    height:140px;
+    margin: 0;
+
+    border-radius: 80%;
+}
+
+h1{
+    font-size: 3rem;
+    color: rgb(59, 58, 58);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.choices{
+    margin-bottom: 50px;
+}
+
+.gameplayButton{
+    border-radius: 5%;
+    min-width: 150px;
+    min-height: 50px;
+    border-color: rgb(110, 108, 108);
+    font-size: 1.5rem;
+    font-weight: 50%;
+    margin-bottom: 25px;
+}
+.gameplay h1{
+    font-size: 2rem;
+    margin: 0;
+
+}
+#startButton{
+    background-color: rgb(34, 250, 6);
+}
+
+#endButton{
+    background-color: red;
+}
+
+
+
+
